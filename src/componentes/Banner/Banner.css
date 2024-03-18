@@ -1,0 +1,12 @@
+:root {
+    --azul-principal: #6278F7;
+}
+
+.banner {
+    background-color: var(--azul-principal);
+    text-align: center;
+}
+
+.banner img {
+    max-width: 100%;
+}
