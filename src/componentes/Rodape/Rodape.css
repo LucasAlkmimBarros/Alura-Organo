@@ -1,38 +1,26 @@
-.rodape {
-    background-color: #4d63e6;
-    color: white;
-    padding: 10px;
+.footer {
+    background: #6278F7;
+    color: #FFF;
+    padding: 80px;
     display: flex;
+    justify-content: space-between;
     align-items: center;
-    justify-content: center;
-}   
-
-
-.icon {
-    width: 20px;
-    height: 20px;
-    margin: 0 10px;
 }
 
-.icons {
-    margin-right: 30vh;
+.footer ul li {
+    display: inline-block;
+    margin-right: 32px;
 }
 
-.rodape p {
-    margin-left: 30vh;
+.footer ul li:last-child {
+    margin-right: 0;
 }
 
-.logo {
-    width: 70px;
-    height: 30px;
-}
-
-.rodape a {
-    color: white;
+.link {
+    color: #FFF;
     text-decoration: none;
-    margin: 0 10px;
 }
 
-.rodape a:hover {
+.link:hover {
     text-decoration: underline;
 }
