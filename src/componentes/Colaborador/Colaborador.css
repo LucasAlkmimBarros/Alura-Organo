@@ -35,3 +35,10 @@
     color: #212121;
     padding: 0 16px;
 }
+
+.rodape {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
